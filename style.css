@@ -1,0 +1,27 @@
+*{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: gray;
+}
+
+.square {
+  width: 50%;
+  height: 0;
+  padding-top: 50%;
+  position: relative;
+  background-color: red; 
+}
+
+.square {
+  width: 25%;
+  height: auto;
+  padding-top: 25%;
+  position: relative;
+  background-color: red;
+  margin: 0 auto;
+}
